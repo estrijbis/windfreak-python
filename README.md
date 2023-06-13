@@ -1,4 +1,4 @@
-THIS REPOSITORY WAS FORKED FROM christian-hahn/windfreak-python
+THIS REPOSITORY WAS FORKED FROM [christian-hahn/windfreak-python](https://github.com/christian-hahn/windfreak-python.git)
 
 # windfreak-python [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/christian-hahn/windfreak-python/blob/master/LICENSE)
 
