@@ -8,12 +8,12 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 setup(
     name='windfreak',
     version='0.3.0',
-    author='Christian Hahn',
-    author_email='christianhahn09@gmail.com',
+    author='Erik Strijbis',
+    author_email='erik.strijbis@gmail.com',
     description='Python package for Windfreak Technologies devices.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/christian-hahn/windfreak-python',
+    url='https://github.com/estrijbis/windfreak-python',
     packages=find_packages(exclude=['tests', 'examples']),
     install_requires=[
         'pyserial',
